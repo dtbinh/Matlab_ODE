@@ -1,0 +1,1 @@
+In code/Lorenz.m script, the first lines are for copy-paste and so execute this script.
